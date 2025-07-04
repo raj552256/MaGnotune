@@ -1,0 +1,113 @@
+.row{
+    border: 10px solid transparent;
+  
+    justify-content: space-around;
+
+   
+}
+
+/* .col{
+    padding: 30px;
+} */
+
+#border{
+    border: 5px solid rgb(255, 60, 0); 
+    text-align: center;
+    padding: 20px;
+    background-color: grey;
+    border-radius: 20px;
+  background-image: url(./LOGO/WhatsApp\ Image\ 2025-06-20\ at\ 13.47.56.jpeg);
+   background-position: center;
+    background-size: cover;
+    
+}
+
+
+#button{
+    padding: 20px; 
+    background-color: black;
+    border-radius: 50px;
+    color: white;
+    text-decoration: none;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+
+#pagecolor{
+    background-color: black;
+}
+
+
+.head{
+    color: green;
+    width: 100%;
+    text-align: center;
+    font-size: 50px;
+    background-image: url(https://i.pinimg.com/736x/86/f8/f4/86f8f4100bd07140a8bf4f2395dd239d.jpg);
+    background-position: center;
+    background-size: cover;
+    background-clip: text;
+    color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-position:left;
+  
+}
+
+.image{
+    width: 250px; 
+    height: 250px; 
+    border-radius: 20px;
+}
+
+
+#input{
+    background-color:grey;
+    cursor: pointer;
+    border-radius: 50px;
+   margin-left: 1200px;
+}
+
+#input::placeholder{
+    color: black;
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/003/804/872/small/abstract-orange-and-black-grunge-texture-background-free-vector.jpg);
+    background-position: center;
+    background-size: cover;
+    background-clip: text;
+    color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-position:left;
+    padding: 10px;
+}
+
+#vss{
+ color: rgb(253, 58, 5);
+ cursor: pointer;
+}
+
+#css{
+    color: rgb(251, 58, 5);
+    margin-left: 80px;
+    cursor: pointer;
+    
+}
+
+.csd:hover{
+    scale: 1.1;
+    overflow: hidden;
+    transition: 0.5s;
+    
+  
+}
+.csd{
+    overflow: hidden;
+    transition: 0.5s;
+}
+
+
+
+
+
